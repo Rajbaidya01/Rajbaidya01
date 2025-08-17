@@ -9,9 +9,9 @@
 
 ## 🚀 LeetCode Progress  
 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Rajbaidya01/)  
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Raj1298/)  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rajbaidya01?theme=dark&font=baloo&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Raj1298?theme=dark&font=baloo&ext=heatmap)  
 
 ---
 
