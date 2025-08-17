@@ -2,7 +2,7 @@
 
 ## 📌 About Me  
 - 🎓 Final year Electronics And Communication Engineering student  
-- 💻 Java Developer 
+- 💻 Java Developer  
 - 🔥 Currently practicing **LeetCode** & building projects  
 
 ---
@@ -11,7 +11,7 @@
 
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Rajbaidya01/)  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo&ext=heatmap)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rajbaidya01?theme=dark&font=baloo&ext=heatmap)  
 
 ---
 
